@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Eashan</h1>
-<h3 align="left">Mechatronics Enthusiast</h3>
+<h1 align="left">Hello👋 I'm Eashan</h1>
+<h3 align="left">A Mechatronics Enthusiast </h3>
 
 <img src="https://img.shields.io/badge/-Python-yellow" alt="python"/>
 
