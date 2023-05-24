@@ -1,9 +1,9 @@
 <h1 align="left">Hello👋 I'm Eashan</h1>
 <h3 align="left">A Mechatronics Enthusiast </h3>
 
-<img src="https://img.shields.io/badge/-Python-yellow" alt="python"/>
+<img src="https://img.shields.io/badge/-Python-yellow" alt="python"/> <img src="https://img.shields.io/badge/-Machine%20Learning-success" alt="machine learning"/> <img src="https://img.shields.io/badge/-Data%20Science-blue" alt="data science"/>
 
-<a href="https://wakatime.com/@0b710948-eb6d-4596-a699-20a0b414402a"><img src="https://wakatime.com/badge/user/0b710948-eb6d-4596-a699-20a0b414402a.svg" alt="Total time coded since May 6 2023" /></a>
+<a href="https://wakatime.com/@0b710948-eb6d-4596-a699-20a0b414402a"><img src="https://wakatime.com/badge/user/0b710948-eb6d-4596-a699-20a0b414402a.svg" alt="Total time coded since May 20 2023" /></a>
 
 
 - 🌱 I’m good at **Python** and currently learning **Machine learning, Data Science**
