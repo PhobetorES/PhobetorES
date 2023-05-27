@@ -6,7 +6,7 @@
 <a href="https://wakatime.com/@0b710948-eb6d-4596-a699-20a0b414402a"><img src="https://wakatime.com/badge/user/0b710948-eb6d-4596-a699-20a0b414402a.svg" alt="Total time coded since May 20 2023" /></a>
 
 
-- 🌱 I’m good at **Python** and currently learning **Machine learning, Data Science**
+- 🌱 I’m a **Python** programmer and currently learning **Machine learning, Data Science**
 
 - 📝 I occasionally write my thoughts on [medium.com/@eashansithum](medium.com/@eashansithum)
 
