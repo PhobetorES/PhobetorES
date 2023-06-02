@@ -1,5 +1,5 @@
-<h1 align="left">Hello👋 I'm Eashan</h1>
-<h3 align="left">A Mechatronics Enthusiast </h3>
+<h1 align="left">Hello👋 I'm Eashan ,</h1>
+<h2 align="left">A Mechatronics Enthusiast </h2>
 
 ![Python](https://img.shields.io/badge/Python-747513.svg?style=flat&logo=python)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-034f00?style=flat) ![Data Science](https://img.shields.io/badge/Data%20Science-02303A.svg?style=flat&logo=Data%20Science&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/C++-%230095D5.svg?style=flat&logo=c++&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-1d7500.svg?style=flat&logo=pycharm) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%234285F4.svg?style=flat&logo=google-colab&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-3f0073.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-002173.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Data Spell](https://img.shields.io/badge/Data%20Spell-1d7500.svg?style=flat&logo=data-spell&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%230A0FFF.svg?style=flat&logo=visual%20studio&logoColor=white)
 
