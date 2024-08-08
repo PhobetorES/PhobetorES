@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Python** programmer and currently learning **Machine learning, Data Science**
 
-- 📝 I occasionally write my thoughts on [medium.com/@eashansithum](medium.com/@eashansithum)
+- 📝 I occasionally write my thoughts on [medium.com/@eashansithum](www.medium.com/@eashansithum)
 
 - 📧 You can contact me at [eashansithum@gmail.com](eashansithum@gmail.com)
 
