@@ -10,7 +10,7 @@
 
 <h3 align="left">a bit about me</h3>
 
-- 🌱 I’m a **Python** programmer and currently learning **Machine learning, Data Science**
+- 🌱 I’m a **Python** programmer and currently learning **Machine learning, Data Science while studying for BSc. Engineering**
 
 - 📝 I occasionally write my thoughts on [medium.com/@eashansithum](www.medium.com/@eashansithum)
 
