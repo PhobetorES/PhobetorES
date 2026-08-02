@@ -13,8 +13,7 @@
 
 - 📝 I occasionally write my thoughts on [medium.com/@eashansithum](www.medium.com/@eashansithum)
 
-
----
+===
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/></a>
